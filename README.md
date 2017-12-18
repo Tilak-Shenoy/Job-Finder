@@ -17,6 +17,7 @@ $ git clone https://github.com/Tilak-Shenoy/Job-Finder.git
 ```
 $ cd Job-Finder
 $ sudo apt install lynx
+$ sudo apt install html-xml-utils
 $ chmod 755 unix.sh
 $ ./unix.sh
 
