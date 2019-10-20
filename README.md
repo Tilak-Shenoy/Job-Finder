@@ -27,4 +27,4 @@ $ ./unix.sh
 - The repository is open to contribution from all interested developers. Kindly send us Pull Requests with explanation as to what changes you have done.
 - Also, you can write to us by opening an [Issue](https://github.com/Tilak-Shenoy/Job-Finder/issues) and also solve a current issue if possible.
 - This repository was created and is currently maintained by [Tilak-Shenoy](https://github.com/Tilak-Shenoy).
-- Collaborators: @[silentwitch](https://github.com/silentwitch), @[naitemach](https://github.com/naitemach) and @[not4win](https://github.com/not4win).
+- Collaborators: @[silentwitch](https://github.com/silentwitch), @[naitemach](https://github.com/naitemach) and @[not4win](https://github.com/not4win)
